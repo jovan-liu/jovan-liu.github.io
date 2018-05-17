@@ -11,7 +11,6 @@
 [获取新闻列表](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-list.md)    
 [获取新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-get.md)  
 [添加新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-save.md)  
-[修改新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-update.md)  
 [删除新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-delete.md)  
 
 ---
@@ -19,7 +18,6 @@
 [获取产品列表](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/item/item-list.md)  
 [获取产品](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/item/item-get.md)  
 [添加产品](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/item/item-save.md)  
-[修改产品](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/item/item-update.md)  
 [删除产品](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/item/item-delete.md)  
 
 ---
