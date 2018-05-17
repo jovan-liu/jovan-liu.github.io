@@ -1,7 +1,7 @@
 # List News
 ---
 # 请求类型: GET
-# URL: http://localhost:8080/svakom/news/page
+# URL: http://192.168.0.28:8080/svakom/news/page
 # 参数:
 参数名 | 说明                             | 类型
 ----- |--------------------------------- | ----
