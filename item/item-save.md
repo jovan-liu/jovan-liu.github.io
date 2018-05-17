@@ -3,8 +3,8 @@
 # 请求类型: POST
 # URL: http://localhost:8080/svakom/item/save
 # 参数:
-参数名     | 说明    | 类型
------     |-------- | ----
+参数名    | 说明    | 类型
+--------- | ------- | ----
 itemId    | 产品ID   | Long
 oldItemId | 旧新闻ID | Long
 itemName  | 产品名称 | String
