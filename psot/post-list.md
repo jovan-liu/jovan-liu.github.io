@@ -1,7 +1,7 @@
 # List Post
 ---
 # 请求类型: GET
-# URL: http://localhost:8080/svakom/post/page
+# URL: http://192.168.0.28:8080/svakom/post/page
 # 参数:
 参数名      | 说明                             | 类型
 -----      |--------------------------------- | ----
