@@ -17,19 +17,6 @@ url       | 产品链接 | String
 # 返回值:
 <pre><code>
 {
-    "code": 1000,
-    "data": {
-        "item": {
-            "itemKey": "Item",
-            "itemId": 7,
-            "itemName": "SVAKOM Limited Edition Gift Box for Lovers",
-            "itemCode": "SVAKOM 2018 Limited Edition Gift Box",
-            "itemDesc": "Limited Edition Gift Box for Lovers",
-            "price": 299,
-            "icon": "https://www.svakom.net/image/cache/betty/xxhz-200x200.jpg",
-            "url": "https://www.svakom.net/product/svakom-promotion",
-            "createTime": 1526528061655
-        }
-    }
+    "code": 1000
 }
 </code></pre>
