@@ -1,4 +1,4 @@
-# S News
+# Save News
 ---
 # 请求类型: POST
 # URL: http://localhost:8080/svakom/news/save
