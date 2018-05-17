@@ -1,7 +1,7 @@
 # Save Item
 ---
 # 请求类型: POST
-# URL: http://localhost:8080/svakom/item/save
+# URL: http://192.168.0.28:8080/svakom/item/save
 # 参数:
 参数名    | 说明    | 类型
 --------- | ------- | ----
