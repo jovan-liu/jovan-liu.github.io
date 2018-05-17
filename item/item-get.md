@@ -5,7 +5,7 @@
 # 参数:
 参数名  | 说明   | 类型
 -----  | ------ | ----
-newsId | 产品ID | Long
+itemId | 产品ID | Long
 # 返回值:
 <pre><code>
 {
