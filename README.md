@@ -8,7 +8,7 @@
 
 ---
 # 新闻模块
-[获取新闻列表](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-list.md)  
+[获取新闻列表](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-list.md)    
 [获取新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-get.md)  
 [添加新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-save.md)  
 [修改新闻](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/news/news-update.md)  
@@ -25,8 +25,8 @@
 ---
 # 帖子模块
 [获取帖子列表](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-list.md)  
-[获取帖子](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-get.md)  
-[发表帖子](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-save.md)  
+[获取帖子](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-get.md)    
+[发表帖子](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-save.md)    
 [删除帖子](https://github.com/jovan-liu/jovan-liu.github.io/tree/master/post/post-delete.md)  
 
 ---
