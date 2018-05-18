@@ -1,9 +1,10 @@
 # Svakom API
 ---
 # 用户模块
-[用户注册]()    
-[获取用户ID]()    
-[修改用户名]()    
+[用户注册](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/customer/customer-save.md)    
+[获取用户ID](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/customer/customer-get.md)    
+[修改用户deviceId、hardwareId](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/customer/customer-update.md)    
+[修改用户名](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/customer/customer-name.md)    
 
 ---
 # 新闻模块
