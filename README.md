@@ -22,9 +22,9 @@
 ---
 # 帖子模块
 [获取帖子列表](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/psot/post-list.md)    
-[帖子点赞](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/post/post-like.md)    
-[发表帖子](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/post/post-save.md)    
-[删除帖子](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/post/post-delete.md)  
+[帖子点赞](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/psot/post-like.md)    
+[发表帖子](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/psot/post-save.md)    
+[删除帖子](https://github.com/jovan-liu/jovan-liu.github.io/blob/master/psot/post-delete.md)  
 
 ---
 # 管理后台模块
