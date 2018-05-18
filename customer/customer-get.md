@@ -3,11 +3,11 @@
 # 请求类型: GET
 # URL: http://192.168.0.28/svakom/customer/get
 # 参数:
-参数名 | 说明                   | 类型
------ |----------------------- | ----
-customerId | 用户ID            | String
-hardwareId | 硬件设备ID         | String
-deviceId   | 手机ID            | String
+参数名 | 说明            | 类型
+----- |---------------- | ----
+customerId | 用户ID     | Long
+hardwareId | 硬件设备ID | String
+deviceId   | 手机ID     | String
 # 返回值:
 <pre><code>
 {
