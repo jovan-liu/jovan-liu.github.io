@@ -6,7 +6,7 @@
 参数名      | 说明    | 类型
 ---------- |-------- | ----
 customerId | 用户ID   | Long
-content    | 帖子内容 | Int
+content    | 帖子内容 | String
 # 返回值:
 <pre><code>
 {
